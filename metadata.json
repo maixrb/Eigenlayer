@@ -1,7 +1,7 @@
 { 
-"name" :  "<ИМЯ>" , 
-"website" :  "<ВЕБ-САЙТ>" , 
-"description" :  "<ОПИСАНИЕ>" , 
+"name" :  "BudymirBY" , 
+"website" :  "https://budymir.xyz" , 
+"description" :  "Budymir is a team of Software Developers from Belarus." , 
 "logo" :  "example.com/logo.png" , 
-"twitter" :  "<TWITTER>" 
+"twitter" :  "--" 
 }
